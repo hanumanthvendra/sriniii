@@ -1,0 +1,23 @@
+[
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  }, 
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "Assign_hanumanth"
+  },
+  {
+  "ParameterKey": "InstanceSecurityGroup",
+      "ParameterValue": "sg-d7ea7fae"
+   },   
+  {
+    "ParameterKey": "ImageID",
+    "ParameterValue": "ami-775e4f16"
+  },
+  {
+    "ParameterKey": "SubnetId",
+    "ParameterValue": "subnet-4f07272b"
+  }
+  
+]
