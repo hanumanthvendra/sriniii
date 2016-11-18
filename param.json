@@ -9,7 +9,7 @@
   },
   {
   "ParameterKey": "InstanceSecurityGroup",
-      "ParameterValue": "sg-d7ea7fae"
+      "ParameterValue": "sg-4aeebe33"
    },   
   {
     "ParameterKey": "ImageID",
@@ -17,7 +17,7 @@
   },
   {
     "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-4f07272b"
+    "ParameterValue": "subnet-4303ba1b"
   }
   
 ]
