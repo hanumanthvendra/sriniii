@@ -13,7 +13,7 @@
    },   
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-0053dd30"
+    "ParameterValue": "ami-5ec1673e"
   },
   {
     "ParameterKey": "SubnetId",
